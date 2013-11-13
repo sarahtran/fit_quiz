@@ -14,14 +14,37 @@
 		A6D1612D182EB27C00B5C30B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D1612C182EB27C00B5C30B /* main.m */; };
 		A6D16131182EB27C00B5C30B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D16130182EB27C00B5C30B /* AppDelegate.m */; };
 		A6D16134182EB27C00B5C30B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6D16132182EB27C00B5C30B /* Main.storyboard */; };
-		A6D16137182EB27C00B5C30B /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D16136182EB27C00B5C30B /* MasterViewController.m */; };
-		A6D1613A182EB27C00B5C30B /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D16139182EB27C00B5C30B /* DetailViewController.m */; };
 		A6D1613C182EB27D00B5C30B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6D1613B182EB27D00B5C30B /* Images.xcassets */; };
 		A6D16143182EB27D00B5C30B /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6D16142182EB27D00B5C30B /* XCTest.framework */; };
 		A6D16144182EB27D00B5C30B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6D16120182EB27C00B5C30B /* Foundation.framework */; };
 		A6D16145182EB27D00B5C30B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6D16124182EB27C00B5C30B /* UIKit.framework */; };
 		A6D1614D182EB27D00B5C30B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A6D1614B182EB27D00B5C30B /* InfoPlist.strings */; };
 		A6D1614F182EB27D00B5C30B /* TrueFitQuizTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D1614E182EB27D00B5C30B /* TrueFitQuizTests.m */; };
+		A6D16161182EB36200B5C30B /* full.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D16159182EB36200B5C30B /* full.png */; };
+		A6D16162182EB36200B5C30B /* shallow.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D1615A182EB36200B5C30B /* shallow.png */; };
+		A6D16163182EB36200B5C30B /* bottom_and_sides.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D1615B182EB36200B5C30B /* bottom_and_sides.png */; };
+		A6D16164182EB36200B5C30B /* taking_sides.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D1615C182EB36200B5C30B /* taking_sides.png */; };
+		A6D16165182EB36200B5C30B /* bottom_happy.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D1615D182EB36200B5C30B /* bottom_happy.png */; };
+		A6D16166182EB36200B5C30B /* well_rounded.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D1615E182EB36200B5C30B /* well_rounded.png */; };
+		A6D16167182EB36200B5C30B /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D1615F182EB36200B5C30B /* logo.png */; };
+		A6D16168182EB36200B5C30B /* image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D16160182EB36200B5C30B /* image.jpg */; };
+		A6D1616D182EB91400B5C30B /* FitQuiz.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D1616C182EB91400B5C30B /* FitQuiz.m */; };
+		A6D16172182EBA3B00B5C30B /* StartQuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D16171182EBA3B00B5C30B /* StartQuizViewController.m */; };
+		A6D16178182EBC0600B5C30B /* ShoulderStrapsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D16177182EBC0600B5C30B /* ShoulderStrapsViewController.m */; };
+		A6D1617A182EC15300B5C30B /* fitQuiz.plist in Resources */ = {isa = PBXBuildFile; fileRef = A6D16179182EC15300B5C30B /* fitQuiz.plist */; };
+		A6D1618C182F185200B5C30B /* arrow_right.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D1618B182F185200B5C30B /* arrow_right.png */; };
+		A6D1618F182F1B4B00B5C30B /* ShapeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D1618E182F1B4B00B5C30B /* ShapeViewController.m */; };
+		A6D16192182F1B6400B5C30B /* BrandViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D16191182F1B6400B5C30B /* BrandViewController.m */; };
+		A6D16195182F1B7F00B5C30B /* BandSizeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D16194182F1B7F00B5C30B /* BandSizeViewController.m */; };
+		A6D16198182F1B8C00B5C30B /* CupSizeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D16197182F1B8C00B5C30B /* CupSizeViewController.m */; };
+		A6D1619B182F1B9C00B5C30B /* FullnessViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D1619A182F1B9C00B5C30B /* FullnessViewController.m */; };
+		A6D1619E182F1BB300B5C30B /* WhichHookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D1619D182F1BB300B5C30B /* WhichHookViewController.m */; };
+		A6D161A4182F1DBD00B5C30B /* SymmetryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D161A3182F1DBD00B5C30B /* SymmetryViewController.m */; };
+		A6D161A7182F23EC00B5C30B /* QuestionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D161A6182F23EC00B5C30B /* QuestionViewController.m */; };
+		A6D161AA182F333400B5C30B /* SpillageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D161A9182F333400B5C30B /* SpillageViewController.m */; };
+		A6D161AC182F3B3600B5C30B /* spillage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6D161AB182F3B3600B5C30B /* spillage.jpg */; };
+		A6D161AF182F428200B5C30B /* PickerQuestionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6D161AE182F428200B5C30B /* PickerQuestionViewController.m */; };
+		A6D161B11831283100B5C30B /* arrow_left.png in Resources */ = {isa = PBXBuildFile; fileRef = A6D161B01831283100B5C30B /* arrow_left.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,16 +69,50 @@
 		A6D1612F182EB27C00B5C30B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A6D16130182EB27C00B5C30B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		A6D16133182EB27C00B5C30B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A6D16135182EB27C00B5C30B /* MasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
-		A6D16136182EB27C00B5C30B /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
-		A6D16138182EB27C00B5C30B /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
-		A6D16139182EB27C00B5C30B /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 		A6D1613B182EB27D00B5C30B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		A6D16141182EB27D00B5C30B /* TrueFitQuizTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrueFitQuizTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6D16142182EB27D00B5C30B /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		A6D1614A182EB27D00B5C30B /* TrueFitQuizTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TrueFitQuizTests-Info.plist"; sourceTree = "<group>"; };
 		A6D1614C182EB27D00B5C30B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A6D1614E182EB27D00B5C30B /* TrueFitQuizTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TrueFitQuizTests.m; sourceTree = "<group>"; };
+		A6D16159182EB36200B5C30B /* full.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = full.png; sourceTree = "<group>"; };
+		A6D1615A182EB36200B5C30B /* shallow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shallow.png; sourceTree = "<group>"; };
+		A6D1615B182EB36200B5C30B /* bottom_and_sides.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottom_and_sides.png; sourceTree = "<group>"; };
+		A6D1615C182EB36200B5C30B /* taking_sides.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = taking_sides.png; sourceTree = "<group>"; };
+		A6D1615D182EB36200B5C30B /* bottom_happy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottom_happy.png; sourceTree = "<group>"; };
+		A6D1615E182EB36200B5C30B /* well_rounded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = well_rounded.png; sourceTree = "<group>"; };
+		A6D1615F182EB36200B5C30B /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		A6D16160182EB36200B5C30B /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
+		A6D1616B182EB91400B5C30B /* FitQuiz.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FitQuiz.h; sourceTree = "<group>"; };
+		A6D1616C182EB91400B5C30B /* FitQuiz.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FitQuiz.m; sourceTree = "<group>"; };
+		A6D16170182EBA3B00B5C30B /* StartQuizViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StartQuizViewController.h; sourceTree = "<group>"; };
+		A6D16171182EBA3B00B5C30B /* StartQuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StartQuizViewController.m; sourceTree = "<group>"; };
+		A6D16176182EBC0600B5C30B /* ShoulderStrapsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShoulderStrapsViewController.h; sourceTree = "<group>"; };
+		A6D16177182EBC0600B5C30B /* ShoulderStrapsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShoulderStrapsViewController.m; sourceTree = "<group>"; };
+		A6D16179182EC15300B5C30B /* fitQuiz.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = fitQuiz.plist; sourceTree = "<group>"; };
+		A6D1618B182F185200B5C30B /* arrow_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow_right.png; sourceTree = "<group>"; };
+		A6D1618D182F1B4B00B5C30B /* ShapeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShapeViewController.h; sourceTree = "<group>"; };
+		A6D1618E182F1B4B00B5C30B /* ShapeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShapeViewController.m; sourceTree = "<group>"; };
+		A6D16190182F1B6400B5C30B /* BrandViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrandViewController.h; sourceTree = "<group>"; };
+		A6D16191182F1B6400B5C30B /* BrandViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrandViewController.m; sourceTree = "<group>"; };
+		A6D16193182F1B7F00B5C30B /* BandSizeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BandSizeViewController.h; sourceTree = "<group>"; };
+		A6D16194182F1B7F00B5C30B /* BandSizeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BandSizeViewController.m; sourceTree = "<group>"; };
+		A6D16196182F1B8C00B5C30B /* CupSizeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CupSizeViewController.h; sourceTree = "<group>"; };
+		A6D16197182F1B8C00B5C30B /* CupSizeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CupSizeViewController.m; sourceTree = "<group>"; };
+		A6D16199182F1B9C00B5C30B /* FullnessViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FullnessViewController.h; sourceTree = "<group>"; };
+		A6D1619A182F1B9C00B5C30B /* FullnessViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FullnessViewController.m; sourceTree = "<group>"; };
+		A6D1619C182F1BB300B5C30B /* WhichHookViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhichHookViewController.h; sourceTree = "<group>"; };
+		A6D1619D182F1BB300B5C30B /* WhichHookViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhichHookViewController.m; sourceTree = "<group>"; };
+		A6D161A2182F1DBD00B5C30B /* SymmetryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SymmetryViewController.h; sourceTree = "<group>"; };
+		A6D161A3182F1DBD00B5C30B /* SymmetryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SymmetryViewController.m; sourceTree = "<group>"; };
+		A6D161A5182F23EC00B5C30B /* QuestionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuestionViewController.h; sourceTree = "<group>"; };
+		A6D161A6182F23EC00B5C30B /* QuestionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuestionViewController.m; sourceTree = "<group>"; };
+		A6D161A8182F333400B5C30B /* SpillageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpillageViewController.h; sourceTree = "<group>"; };
+		A6D161A9182F333400B5C30B /* SpillageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpillageViewController.m; sourceTree = "<group>"; };
+		A6D161AB182F3B3600B5C30B /* spillage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = spillage.jpg; sourceTree = "<group>"; };
+		A6D161AD182F428200B5C30B /* PickerQuestionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PickerQuestionViewController.h; sourceTree = "<group>"; };
+		A6D161AE182F428200B5C30B /* PickerQuestionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PickerQuestionViewController.m; sourceTree = "<group>"; };
+		A6D161B01831283100B5C30B /* arrow_left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow_left.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,11 +175,10 @@
 				A6D1612F182EB27C00B5C30B /* AppDelegate.h */,
 				A6D16130182EB27C00B5C30B /* AppDelegate.m */,
 				A6D16132182EB27C00B5C30B /* Main.storyboard */,
-				A6D16135182EB27C00B5C30B /* MasterViewController.h */,
-				A6D16136182EB27C00B5C30B /* MasterViewController.m */,
-				A6D16138182EB27C00B5C30B /* DetailViewController.h */,
-				A6D16139182EB27C00B5C30B /* DetailViewController.m */,
 				A6D1613B182EB27D00B5C30B /* Images.xcassets */,
+				A6D16169182EB8C100B5C30B /* Models */,
+				A6D1616A182EB8C800B5C30B /* Controllers */,
+				A6D16158182EB34600B5C30B /* Art */,
 				A6D16127182EB27C00B5C30B /* Supporting Files */,
 			);
 			path = TrueFitQuiz;
@@ -131,6 +187,7 @@
 		A6D16127182EB27C00B5C30B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A6D16179182EC15300B5C30B /* fitQuiz.plist */,
 				A6D16128182EB27C00B5C30B /* TrueFitQuiz-Info.plist */,
 				A6D16129182EB27C00B5C30B /* InfoPlist.strings */,
 				A6D1612C182EB27C00B5C30B /* main.m */,
@@ -155,6 +212,64 @@
 				A6D1614B182EB27D00B5C30B /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A6D16158182EB34600B5C30B /* Art */ = {
+			isa = PBXGroup;
+			children = (
+				A6D161AB182F3B3600B5C30B /* spillage.jpg */,
+				A6D161B01831283100B5C30B /* arrow_left.png */,
+				A6D1618B182F185200B5C30B /* arrow_right.png */,
+				A6D16159182EB36200B5C30B /* full.png */,
+				A6D1615A182EB36200B5C30B /* shallow.png */,
+				A6D1615B182EB36200B5C30B /* bottom_and_sides.png */,
+				A6D1615C182EB36200B5C30B /* taking_sides.png */,
+				A6D1615D182EB36200B5C30B /* bottom_happy.png */,
+				A6D1615E182EB36200B5C30B /* well_rounded.png */,
+				A6D1615F182EB36200B5C30B /* logo.png */,
+				A6D16160182EB36200B5C30B /* image.jpg */,
+			);
+			name = Art;
+			sourceTree = "<group>";
+		};
+		A6D16169182EB8C100B5C30B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A6D1616B182EB91400B5C30B /* FitQuiz.h */,
+				A6D1616C182EB91400B5C30B /* FitQuiz.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		A6D1616A182EB8C800B5C30B /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				A6D16170182EBA3B00B5C30B /* StartQuizViewController.h */,
+				A6D16171182EBA3B00B5C30B /* StartQuizViewController.m */,
+				A6D161A5182F23EC00B5C30B /* QuestionViewController.h */,
+				A6D161A6182F23EC00B5C30B /* QuestionViewController.m */,
+				A6D16176182EBC0600B5C30B /* ShoulderStrapsViewController.h */,
+				A6D16177182EBC0600B5C30B /* ShoulderStrapsViewController.m */,
+				A6D1618D182F1B4B00B5C30B /* ShapeViewController.h */,
+				A6D1618E182F1B4B00B5C30B /* ShapeViewController.m */,
+				A6D161AD182F428200B5C30B /* PickerQuestionViewController.h */,
+				A6D161AE182F428200B5C30B /* PickerQuestionViewController.m */,
+				A6D16190182F1B6400B5C30B /* BrandViewController.h */,
+				A6D16191182F1B6400B5C30B /* BrandViewController.m */,
+				A6D16193182F1B7F00B5C30B /* BandSizeViewController.h */,
+				A6D16194182F1B7F00B5C30B /* BandSizeViewController.m */,
+				A6D16196182F1B8C00B5C30B /* CupSizeViewController.h */,
+				A6D16197182F1B8C00B5C30B /* CupSizeViewController.m */,
+				A6D16199182F1B9C00B5C30B /* FullnessViewController.h */,
+				A6D1619A182F1B9C00B5C30B /* FullnessViewController.m */,
+				A6D1619C182F1BB300B5C30B /* WhichHookViewController.h */,
+				A6D1619D182F1BB300B5C30B /* WhichHookViewController.m */,
+				A6D161A2182F1DBD00B5C30B /* SymmetryViewController.h */,
+				A6D161A3182F1DBD00B5C30B /* SymmetryViewController.m */,
+				A6D161A8182F333400B5C30B /* SpillageViewController.h */,
+				A6D161A9182F333400B5C30B /* SpillageViewController.m */,
+			);
+			name = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,9 +348,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6D161B11831283100B5C30B /* arrow_left.png in Resources */,
+				A6D1618C182F185200B5C30B /* arrow_right.png in Resources */,
 				A6D1613C182EB27D00B5C30B /* Images.xcassets in Resources */,
+				A6D16168182EB36200B5C30B /* image.jpg in Resources */,
+				A6D16165182EB36200B5C30B /* bottom_happy.png in Resources */,
+				A6D161AC182F3B3600B5C30B /* spillage.jpg in Resources */,
+				A6D16163182EB36200B5C30B /* bottom_and_sides.png in Resources */,
+				A6D16162182EB36200B5C30B /* shallow.png in Resources */,
 				A6D1612B182EB27C00B5C30B /* InfoPlist.strings in Resources */,
+				A6D16166182EB36200B5C30B /* well_rounded.png in Resources */,
+				A6D16167182EB36200B5C30B /* logo.png in Resources */,
+				A6D16164182EB36200B5C30B /* taking_sides.png in Resources */,
+				A6D16161182EB36200B5C30B /* full.png in Resources */,
 				A6D16134182EB27C00B5C30B /* Main.storyboard in Resources */,
+				A6D1617A182EC15300B5C30B /* fitQuiz.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,10 +381,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6D16198182F1B8C00B5C30B /* CupSizeViewController.m in Sources */,
+				A6D1618F182F1B4B00B5C30B /* ShapeViewController.m in Sources */,
+				A6D1616D182EB91400B5C30B /* FitQuiz.m in Sources */,
+				A6D161AF182F428200B5C30B /* PickerQuestionViewController.m in Sources */,
 				A6D16131182EB27C00B5C30B /* AppDelegate.m in Sources */,
-				A6D16137182EB27C00B5C30B /* MasterViewController.m in Sources */,
 				A6D1612D182EB27C00B5C30B /* main.m in Sources */,
-				A6D1613A182EB27C00B5C30B /* DetailViewController.m in Sources */,
+				A6D1619B182F1B9C00B5C30B /* FullnessViewController.m in Sources */,
+				A6D16178182EBC0600B5C30B /* ShoulderStrapsViewController.m in Sources */,
+				A6D16172182EBA3B00B5C30B /* StartQuizViewController.m in Sources */,
+				A6D161A4182F1DBD00B5C30B /* SymmetryViewController.m in Sources */,
+				A6D161AA182F333400B5C30B /* SpillageViewController.m in Sources */,
+				A6D16195182F1B7F00B5C30B /* BandSizeViewController.m in Sources */,
+				A6D161A7182F23EC00B5C30B /* QuestionViewController.m in Sources */,
+				A6D16192182F1B6400B5C30B /* BrandViewController.m in Sources */,
+				A6D1619E182F1BB300B5C30B /* WhichHookViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

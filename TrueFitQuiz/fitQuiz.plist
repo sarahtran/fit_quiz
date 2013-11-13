@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question_key</key>
+		<string>shoulder_straps</string>
+		<key>question</key>
+		<string>This fit quiz will help us stock your personal lingerie shop. First, bras: How are your shoulder straps?</string>
+		<key>answers</key>
+		<dict>
+			<key>Slip</key>
+			<string>Slipping Off/Slip Sliding</string>
+			<key>Dig</key>
+			<string>Digging In</string>
+			<key>Fine</key>
+			<string>They are Fine</string>
+		</dict>
+		<key>tip</key>
+		<string>Strap fabric stretches over time, so first step - tighten up! Still sliding down, it might be time to upgrade...</string>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>shape</string>
+		<key>question</key>
+		<string>What is your shape?</string>
+		<key>answers</key>
+		<dict>
+			<key>Rou</key>
+			<string>Well Rounded</string>
+			<key>Bot</key>
+			<string>Bottom Happy</string>
+			<key>Sid</key>
+			<string>Taking Sides</string>
+			<key>BoS</key>
+			<string>Bottom &amp; Sides</string>
+		</dict>
+		<key>tip</key>
+		<string>Not quite 3 finger-widths apart. A bra that lifts from the sides is a must-have!</string>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>brand</string>
+		<key>question</key>
+		<string>What’s the brand of your best fitting (and beloved) bra?</string>
+		<key>answers</key>
+		<dict>
+			<key>VSS</key>
+			<string>Victoria&apos;s Secret</string>
+			<key>Maid</key>
+			<string>Maidenform</string>
+			<key>CK</key>
+			<string>Calvin Klein</string>
+			<key>Wac</key>
+			<string>Wacoal</string>
+			<key>Cha</key>
+			<string>Chantelle</string>
+			<key>MS</key>
+			<string>Marks &amp; Spencer</string>
+			<key>VF</key>
+			<string>Vanity Fair</string>
+			<key>Gap</key>
+			<string>Gap Body</string>
+			<key>other</key>
+			<string>Other</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>band_size</string>
+		<key>question</key>
+		<string>What&apos;s your band size?</string>
+		<key>answers</key>
+		<dict>
+			<key>28</key>
+			<string>28</string>
+			<key>30</key>
+			<string>30</string>
+			<key>32</key>
+			<string>32</string>
+			<key>34</key>
+			<string>34</string>
+			<key>36</key>
+			<string>36</string>
+			<key>38</key>
+			<string>38</string>
+			<key>40</key>
+			<string>40</string>
+			<key>42</key>
+			<string>42</string>
+			<key>44</key>
+			<string>44</string>
+			<key>46</key>
+			<string>46</string>
+			<key>48</key>
+			<string>48</string>
+			<key>50</key>
+			<string>50</string>
+			<key>52</key>
+			<string>52</string>
+			<key>54</key>
+			<string>54</string>
+			<key>56</key>
+			<string>56</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>cup_size</string>
+		<key>question</key>
+		<string>What&apos;s your cup size?</string>
+		<key>answers</key>
+		<dict>
+			<key>AA</key>
+			<string>AA</string>
+			<key>A</key>
+			<string>A</string>
+			<key>B</key>
+			<string>B</string>
+			<key>C</key>
+			<string>C</string>
+			<key>D</key>
+			<string>D</string>
+			<key>DD</key>
+			<string>DD</string>
+			<key>E</key>
+			<string>E</string>
+			<key>F</key>
+			<string>F</string>
+			<key>FF</key>
+			<string>FF</string>
+			<key>G</key>
+			<string>G</string>
+			<key>GG</key>
+			<string>GG</string>
+			<key>H</key>
+			<string>H</string>
+			<key>HH</key>
+			<string>HH</string>
+			<key>J</key>
+			<string>J</string>
+			<key>JJ</key>
+			<string>JJ</string>
+			<key>K</key>
+			<string>K</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>fullness</string>
+		<key>question</key>
+		<string>Cup check! How do your breasts rest in your bra?</string>
+		<key>answers</key>
+		<dict>
+			<key>s</key>
+			<string>Shallow</string>
+			<key>f</key>
+			<string>Full</string>
+		</dict>
+		<key>tip</key>
+		<string>TRUE TIP: You might be a larger cup.</string>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>which_hook</string>
+		<key>question</key>
+		<string>Which hook on your bra gets the most love?</string>
+		<key>answers</key>
+		<dict>
+			<key>TighestHook</key>
+			<string>Tighest</string>
+			<key>MiddleHook</key>
+			<string>Middle</string>
+			<key>LoosestHook</key>
+			<string>Loosest</string>
+		</dict>
+		<key>tip</key>
+		<string>TRUE TIP: A well-fitting band is tight for good support.
+                It’s alright to hang out in the middle but it’s ideal to be on the loosest hook.</string>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>symmetry</string>
+		<key>question</key>
+		<string>Are you right or left-breasted (is one bigger than the other)?</string>
+		<key>answers</key>
+		<dict>
+			<key>Left</key>
+			<string>I&apos;m a Leftie</string>
+			<key>Right</key>
+			<string>I&apos;m a Rightie</string>
+			<key>SameSize</key>
+			<string>Both are the Same</string>
+		</dict>
+		<key>tip</key>
+		<string>Over 40% of women have different sized breasts! You may not need 2 different cup sizes but this helps us decide which bras are best for you.</string>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>spillage</string>
+		<key>question</key>
+		<string>Do your cups runneth over?</string>
+		<key>answers</key>
+		<dict>
+			<key>BustC</key>
+			<string>Cleavage</string>
+			<key>BustU</key>
+			<string>Underarms</string>
+			<key>BustB</key>
+			<string>Back</string>
+			<key>BustS</key>
+			<string>Sides</string>
+			<key>NoBust</key>
+			<string>No Spills, All Good</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>discomfort</string>
+		<key>question</key>
+		<string>Ouch! Does your bra hurt?</string>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>body_fit_top</string>
+		<key>question</key>
+		<string>When shopping for loungewear or pajamas, what clothing size do you usually wear on the top?</string>
+	</dict>
+	<dict>
+		<key>question_key</key>
+		<string>body_fit_bottom</string>
+		<key>question</key>
+		<string>When shopping for loungewear or pajamas, what clothing size do you usually wear on the bottom?</string>
+	</dict>
+</array>
+</plist>

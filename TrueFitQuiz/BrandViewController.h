@@ -1,5 +1,5 @@
 //
-//  MasterViewController.h
+//  BrandViewController.h
 //  TrueFitQuiz
 //
 //  Created by Sarah Tran on 11/9/13.
@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PickerQuestionViewController.h"
 
-@interface MasterViewController : UITableViewController
+@interface BrandViewController : PickerQuestionViewController
 
 @end
